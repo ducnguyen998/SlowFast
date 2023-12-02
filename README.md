@@ -22,8 +22,7 @@ pip install pytorchvideo
 
 ## Dataset
 
-[kinetics-20-small](https://github.com/cvdfoundation/kinetics-dataset) dataset is used in this repo, you could download these
-datasets from official websites. The data directory structure is shown as follows:
+[kinetics-20-small]([https://github.com/cvdfoundation/kinetics-dataset](https://drive.google.com/file/d/1NH84hPL1KXExt2jqiAleK09O2BUZV2uW/view?usp=sharing)) dataset is used in this repo. The data directory structure is shown as follows:
 
  ```
 ├──data
