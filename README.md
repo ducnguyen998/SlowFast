@@ -22,8 +22,7 @@ pip install pytorchvideo
 
 ## Dataset
 
-[kinetics-20-small](https://github.com/cvdfoundation/kinetics-dataset) dataset is used in this repo, you could download these
-datasets from official websites. The data directory structure is shown as follows:
+[kinetics-20-small](https://drive.google.com/file/d/1NH84hPL1KXExt2jqiAleK09O2BUZV2uW/view?usp=sharing) dataset is used in this repo. The data directory structure is shown as follows:
 
  ```
 ├──data
@@ -61,3 +60,8 @@ optional arguments:
 --model_path                  Model path [default value is 'result/slow_fast.pth']
 --video_path                  Video path [default value is 'data/test/applauding/_V-dzjftmCQ_000023_000033.mp4']
 ```
+
+## Source
+
+https://github.com/leftthomas/SlowFast
+
