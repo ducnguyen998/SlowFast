@@ -64,7 +64,5 @@ optional arguments:
 
 ## Source
 
-```
 https://github.com/leftthomas/SlowFast
 
-```
