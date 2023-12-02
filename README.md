@@ -22,7 +22,7 @@ pip install pytorchvideo
 
 ## Dataset
 
-[kinetics-20-small]([https://drive.google.com/file/d/1NH84hPL1KXExt2jqiAleK09O2BUZV2uW/view?usp=sharing]) dataset is used in this repo. The data directory structure is shown as follows:
+[kinetics-20-small](https://drive.google.com/file/d/1NH84hPL1KXExt2jqiAleK09O2BUZV2uW/view?usp=sharing) dataset is used in this repo. The data directory structure is shown as follows:
 
  ```
 ├──data
